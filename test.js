@@ -226,11 +226,10 @@ var substitute = {
   'Vatican City' : 'Vatican'
 };
 
-var fs = require('fs');
+var str = require('./');
 var test = require('tap').test;
 
 test("correct states", function (t) {
-  var str = fs.readFileSync('./verses.md').toString();
   states.forEach(function (state) {
     var sub = substitute[state] || state;
     // find the right use of the substring and replace it
@@ -242,7 +241,7 @@ test("correct states", function (t) {
       //console.log('found', str.slice(idx, idx + sub.length), 'for', sub);
     }
     // can sometimes have >1 hit, if so take the first hit that:
-    // has whitespace on either side of the match (sufficient atm)
+    // has whitespace or commas on either side of the match (sufficient atm)
     var whiteReg = /[\s,\.\,]/;
     var i;
     if (indices.length > 0) {
