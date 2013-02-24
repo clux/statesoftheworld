@@ -10,9 +10,11 @@ It's a very good project for memorizing geography, and also very fun! Impress yo
 ## Rules
 
 1. Rhyming have to maintain the rhyming rules implicitly defined in the .
-2. Use only states from [http://en.wikipedia.org/wiki/List_of_sovereign_states](UN Member states or observer states) (i.e. not the second list therein)
+2. Use only states from [UN Member states or observer states](http://en.wikipedia.org/wiki/List_of_sovereign_states) (i.e. not the second list therein)
 
-## Current Result
+## Result
+**[CURRENT VERSION IS AVAILABLE HERE](2013.md)**
+
 All states from the list are included, and no miscellaneous sentences were needed to make it work. The fast end list have been elongated slightly to fit (despite adding an extra verse), and some multi island names have been shortened slightly to get a nicer flow (most of this is documented in `test.js`).
 
 ## Updates

@@ -47,8 +47,7 @@ Dahomey, Namibia, Senegal, Libya
 Cameroon, Congo, Zaire.
 Ethiopia, Guinea-Bissau, Madagascar
 Rwanda, Mahore, and Cayman,
-Hong Kong, Abu Dhabi, Qatar, Yugoslavia...
---
+Hong Kong, Abu Dhabi, Qatar, Yugoslavia
 Crete, Mauritania
 Then Transylviania,
 Monaco, Liechtenstein
