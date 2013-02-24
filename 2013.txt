@@ -26,7 +26,7 @@ Comoros, Denmark, and Spain.
 
 India, Pakistan, Burma, Afghanistan,
 Thailand, and Marshalls, Bhutan,
-Indonesia, Tajikistan, Fiji, and Kyrgyzstan,
+Indonesia, Tajikistan, Germany, Kyrgyzstan,
 Bangladesh, China, Japan.
 Mongolia, Laos, Micronesia, Malaysia,
 The Philippines, Azerbaijan,
@@ -56,7 +56,7 @@ the Solomon Islands, and Emirates (United)
 then Maldives, and Uzbekistan.
 Korea (North-South), Singapore, and Samoa,
 Serbia, Seychelles, and Sudan,
-Equatorial Guinea, Cape Verde, and Slovakia,
+Equatorial Guinea, Cape Verde, and Fiji,
 Cote d'Ivoire, and South Sudan.
 Antigua (&) Barbuda, Moldova, Saint Lucia,
 Belarus, and San Marino,
@@ -66,7 +66,7 @@ Croatia, Australia,
 and Lithuania,
 Monaco, Liechtenstein,
 Malta, and Palestine,
-Germany, Austria,
+Slovakia, Austria,
 Andorra, Latvia,
 Saint Vincent (and the) Grenadines,
 Sao Tome (and) Principie,
