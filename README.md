@@ -1,4 +1,4 @@
-# States of the World
+# States of the World [![Build Status](https://secure.travis-ci.org/clux/statesoftheworld.png)](http://travis-ci.org/clux/statesoftheworld)
 Fun break project. It's a new version of the classic song: [Animaniacs - Nations of the World](http://www.youtube.com/watch?v=IDtdQ8bTvRc).
 
 The [original song](ORIGINAL.txt) missed around 50 states, included various padded sentences that were not unnecessary, in addition to states that no longer exist. See [inconsistencies](INCONSISTENCIES.md) for the full breakdown on these.
