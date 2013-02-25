@@ -36,3 +36,4 @@
 - Hong Kong now part of China
 - Abu Dhabi is the capital of UAE
 - Yugoslavia is dead
+- Crete part of Greece
