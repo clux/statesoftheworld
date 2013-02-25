@@ -11,13 +11,14 @@ It's a very good project for memorizing geography, and also very fun! Impress yo
 
 1. Rhyming MUST maintain the rhyming rules implicitly defined in the original song.
 2. Song MUST fit original melody (though we may add extra verses)
-3. Pronunciation of states SHOULD be correct
-4. SHOULD only use states from [UN Member states or observer states](http://en.wikipedia.org/wiki/List_of_sovereign_states) (i.e. not the second list therein)
+3. State names SHOULD conform to the first suggestion on English wikipedia
+4. State names SHOULD be aligned in the song such that emphasis occur on correct parts of it.
+5. MUST only use states from [UN Member states or observer states](http://en.wikipedia.org/wiki/List_of_sovereign_states) (i.e. not the second list therein), and MUST use ALL these states.
 
 ## Result
 **[CURRENT VERSION IS AVAILABLE HERE](2013.txt)**
 
-All states from the list are included, and no miscellaneous sentences were needed to make it work. The fast end list have been elongated slightly to fit (despite adding an extra verse), and some multi island names have been shortened slightly to get a nicer flow (most of this is documented in `test.js`).
+It needed an extra verse and a slightly elongated fast end list, and some multi island names have been shortened slightly to get a nicer flow (documented in `test.js`).
 
 ## Updates
 This song is obviously never going to be correct for long with how the world is evolving. So feel free to raise issues when new states appear/disappear etc and maybe we can keep it up.

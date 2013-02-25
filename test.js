@@ -209,7 +209,7 @@ var substitute = {
 
   // koreas (listed together as one)
   'Korea, North' : 'Korea',
-  'Korea, South' : '(North-South)',
+  'Korea, South' : 'North/South',
 
   // misc tiny tweaks and silent joiners
   'Antigua and Barbuda' : 'Antigua (&) Barbuda',
@@ -222,8 +222,7 @@ var substitute = {
   'Sao Tome and Principe' : 'Sao Tome (and) Principie',
   'Solomon Islands' : 'the Solomon Islands',
   'Trinidad and Tobago' : 'Trinidad (&) Tobago too',
-  'United Arab Emirates': 'Emirates (United)',
-  'Vatican City' : 'Vatican'
+  'United Arab Emirates': 'Emirates United'
 };
 
 var str = require('./');
@@ -268,10 +267,11 @@ test("correct states", function (t) {
            .replace(/and/g, '')
            .replace(/still/g, '')
            .replace(/then/g, '')
+           .replace(/now/g, '')
            .replace(/There's/, '')
            .replace(/[\&\(\)\-]/g, ''); // remaining separators
 
-  t.equal(str, "PuertoRico", "Only the 1 leftover country remaining"); // see readme
+  t.equal(str, "", "No leftovers");
   t.end();
 });
 
