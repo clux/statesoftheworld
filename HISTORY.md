@@ -4,10 +4,10 @@
   - minor (country list used updated)
   - patch (flow improvements)
 
-0.2.1 / 2013-02-26
+0.2.1 / 2013-02-XX
 ==================
   * Trinidad & Tobago issue fixed by moving lots of things around
-  * also better flow overall and better region-closeness in verse 1 and 2
+  * better flow overall and better region-closeness in verse 1 and 2
 
 0.2.0 / 2013-02-25
 ==================
