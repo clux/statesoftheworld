@@ -1,11 +1,11 @@
-United States, Canada, Mexico, Panama,
+United States, Canada, Ecuador, Panama,
 Haiti, Jamaica, Peru,
 Republic Dominican, Cuba, Dominica,
-Trinidad (&) Tobago too.
-San Marino, Columbia, Venezuela,
+Maldives, Columbia too.
+Trinidad & Tobago, and Venezuela,
 Honduras, Guyana, and still
 Guatemala, Bolivia, then Argentina,
-and Ecuador, Chile, Brazil.
+El Salvador, Chile, Brazil.
 Costa Rica, Barbados, Grenada, Bahamas,
 Nepal, Nicaragua, Nauru,
 Paraguay, Uruguay, Suriname,
@@ -20,9 +20,9 @@ Ireland, Russia, Oman,
 Bulgaria, Saudi Aurabia, Hungary,
 Cyprus, Iraq, Iran.
 There's Syria, Lebanon, Israel, Samoa,
-Kuwait, Montenegro, Bahrain,
+Kuwait, San Marino, Bahrain,
 The Netherlands, Luxembourg, Belgium, and Portugal,
-Comoros, Denmark, and Spain.
+Serbia, Denmark, and Spain.
 
 India, Pakistan, Burma, Afghanistan,
 Thailand, and Marshalls, Bhutan,
@@ -52,22 +52,23 @@ Cape Verde, Sierra Leone.
 
 Armenia, Cambodia, Brunei, and Estonia,
 Kazakhstan, Turkmenistan,
-the Solomon Islands, and Emirates United
-then Maldives, and Uzbekistan.
+Comoros, Seychelles, and Emirates United
+then Mexico, Uzbekistan.
 Korea North/South, Singapore, Tanzania,
-Serbia, Seychelles, and Sudan,
-Equatorial Guinea, Palau, and Fiji,
+the Solomon Islands, Sudan,
+Equatorial Guinea, Montenegro, and Fiji,
 Cote d'Ivoire, and South Sudan.
 Antigua (&) Barbuda, Moldova, Saint Lucia,
-El Salvador, and Belarus,
-Slovakia, Malta, Croatia, and Austria,
+Andorra, Belarus, Palau,
+Slovakia, Malta, Croatia, Australia,
 -
 now Mauritania,
 and Lithuania,
 Monaco, Liechtenstein,
 Jordan, and Palestine,
-Andorra, Latvia,
-Tonga, Australia
+Latvia, and Austria,
 Saint Vincent (and the) Grenadines,
 Sao Tome (and) Principie,
-Vatican City, Ukraine.
+Vatican, Tonga, Ukraine.
+
+

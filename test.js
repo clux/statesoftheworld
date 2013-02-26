@@ -221,7 +221,7 @@ var substitute = {
   'Saint Vincent and the Grenadines' : 'Saint Vincent (and the) Grenadines',
   'Sao Tome and Principe' : 'Sao Tome (and) Principie',
   'Solomon Islands' : 'the Solomon Islands',
-  'Trinidad and Tobago' : 'Trinidad (&) Tobago too',
+  'Trinidad and Tobago' : 'Trinidad & Tobago',
   'United Arab Emirates': 'Emirates United'
 };
 
@@ -233,10 +233,8 @@ test("correct states", function (t) {
     var sub = substitute[state] || state;
     // find the right use of the substring and replace it
     var indices = [];
-    var start = 0;
-    for (var idx = str.indexOf(sub, start); idx >= 0; idx = str.indexOf(sub, start)) {
+    for (var idx = str.indexOf(sub, 0); idx >= 0; idx = str.indexOf(sub, idx+1)) {
       indices.push(idx);
-      start = idx + 1;
       //console.log('found', str.slice(idx, idx + sub.length), 'for', sub);
     }
     // can sometimes have >1 hit, if so take the first hit that:
@@ -258,19 +256,20 @@ test("correct states", function (t) {
       t.ok(false, sub + " not found!");
     }
     else {
+      t.ok(true, sub + " found");
       // splice out sub
       //console.log('removing:', str.slice(i, i+sub.length));
       str = str.slice(0, i) + str.slice(i + sub.length);
     }
   });
-  str = str.replace(/[\s\,\.]/g, '')
-           .replace(/and/g, '')
+  str = str.replace(/[\s\,\.]/g, '')  // whitespace and punctuation
+           .replace(/and/g, '')       // misc. filler words
            .replace(/still/g, '')
            .replace(/then/g, '')
            .replace(/now/g, '')
+           .replace(/too/g, '')
            .replace(/There's/, '')
            .replace(/[\&\(\)\-]/g, ''); // remaining separators
-
   t.equal(str, "", "No leftovers");
   t.end();
 });

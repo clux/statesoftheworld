@@ -1,3 +1,14 @@
+# Versioning
+
+  - major (undecided)
+  - minor (country list used updated)
+  - patch (flow improvements)
+
+0.2.1 / 2013-02-26
+==================
+  * Trinidad & Tobago issue fixed by moving lots of things around
+  * also better flow overall and better region-closeness in verse 1 and 2
+
 0.2.0 / 2013-02-25
 ==================
   * Now only silent words/signs are parenthesized in the txt!
