@@ -152,7 +152,7 @@ var states = [
   'Samoa',
   'San Marino',
   'Sao Tome and Principe',
-  'Saudi Aurabia',
+  'Saudi Arabia',
   'Senegal',
   'Serbia',
   'Seychelles',
@@ -214,7 +214,7 @@ var substitute = {
   // misc tiny tweaks and silent joiners
   'Antigua and Barbuda' : 'Antigua (&) Barbuda',
   'Dominican Republic' : 'Republic Dominican',
-  'Marshall Islands' : 'Marshalls',
+  'Marshall Islands' : 'The Marshalls',
   'Micronesia, Federated States of' : 'Micronesia',
   'Netherlands' : 'The Netherlands',
   'Philippines' : 'The Philippines',
@@ -222,7 +222,8 @@ var substitute = {
   'Sao Tome and Principe' : 'Sao Tome (and) Principie',
   'Solomon Islands' : 'the Solomon Islands',
   'Trinidad and Tobago' : 'Trinidad & Tobago',
-  'United Arab Emirates': 'Emirates United'
+  'United Arab Emirates' : 'Emirates',
+  'Vatican City' : 'Vatican'
 };
 
 var str = require('./');
@@ -265,7 +266,7 @@ test("correct states", function (t) {
   str = str.replace(/[\s\,\.]/g, '')  // whitespace and punctuation
            .replace(/and/g, '')       // misc. filler words
            .replace(/still/g, '')
-           .replace(/then/g, '')
+           .replace(/[tT]hen/g, '')
            .replace(/now/g, '')
            .replace(/too/g, '')
            .replace(/There's/, '')
