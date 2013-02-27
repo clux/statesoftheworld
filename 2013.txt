@@ -26,12 +26,12 @@ Luxembourg, Denmark, and Spain.
 
 India, Pakistan, Burma, Afghanistan,
 Thailand, The Marshalls, Bhutan,
-Indonesia, Tajikistan, Monaco, Kazakhstan,
+Indonesia, Tajikistan, Monaco, Kyrgyzstan,
 Bangladesh, China, Japan.
 Mongolia, Laos, Micronesia, Malaysia,
 The Philippines, Azerbaijan,
 Sri Lanka, New Zealand, and Papau New Guinea,
-Kiribati, and Vietnam.
+and Kiribati, and Vietnam.
 Tunisia, Morocco, Uganda, Angola,
 Zimbabwe, Djibouti, Botswana,
 Mozambique, Zambia, Swaziland, Gambia,
@@ -51,7 +51,7 @@ Benin, Eritrea, Malawi, Slovenia,
 Kenya, Sierra Leone.
 
 Cambodia, Columbia, Armenia, Estonia
-Kyrgyzstan, Turkmenistan,
+Kazakhstan, Turkmenistan,
 Montenegro and Seychelles, Lesotho, and Emirates,
 Comoros, Uzbekistan.
 Korea North/South, Singapore, Tanzania,
