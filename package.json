@@ -2,7 +2,7 @@
   "name": "statesoftheworld",
   "description": "An updated and complete Nations of the World song ala Animaniacs",
   "author": "Eirik Albrigtsen <analsandblaster@gmail.com>",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/clux/statesoftheworld.git"
