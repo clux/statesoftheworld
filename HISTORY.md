@@ -4,6 +4,10 @@
   - minor (country list used updated)
   - patch (flow improvements)
 
+0.2.2 / 2013-03-01
+==================
+  * Togo issue fixed => better flow, one less rhyme that didn't really work anyway
+
 0.2.1 / 2013-02-26
 ==================
   * Trinidad & Tobago issue fixed by moving lots of things around
