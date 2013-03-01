@@ -40,7 +40,7 @@ Guinea, Algeria, Ghana.
 Republics: of Congos & Czech (&) Central African
 Yemen, Burkina Faso,
 Niger, Nigeria, Chad, Liberia,
-Palau, Tuvalu, Togo.
+Vatican, Togo, Palau.
 Cape Verde, and Somalia, Cameroon, Mali,
 South Africa, Egypt, Gabon,
 Mauritius, Namibia, Senegal, Libya,
@@ -68,4 +68,4 @@ Latvia, Liechtenstein,
 Jordan, and Palestine,
 Saint Vincent (and the) Grenadines,
 Sao Tome (and) Principie,
-Vatican, Tonga, Ukraine.
+Tonga, Tuvalu, Ukraine.
