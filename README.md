@@ -1,7 +1,6 @@
 # States of the World
 [![Build Status](https://secure.travis-ci.org/clux/statesoftheworld.png)](http://travis-ci.org/clux/statesoftheworld)
-(http://nodejs.org/api/documentation.html#documentation_stability_index)
-[![unstable](http://hughsk.github.io/stability-badges/dist/unstable.svg)](
+[![unstable](http://hughsk.github.io/stability-badges/dist/unstable.svg)](http://nodejs.org/api/documentation.html#documentation_stability_index)
 
 
 Fun break project. It's a new version of the classic song: [Animaniacs - Nations of the World](http://www.youtube.com/watch?v=IDtdQ8bTvRc).
