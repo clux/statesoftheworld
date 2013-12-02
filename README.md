@@ -1,11 +1,16 @@
-# States of the World [![Build Status](https://secure.travis-ci.org/clux/statesoftheworld.png)](http://travis-ci.org/clux/statesoftheworld)
+# States of the World
+[![Build Status](https://secure.travis-ci.org/clux/statesoftheworld.png)](http://travis-ci.org/clux/statesoftheworld)
+(http://nodejs.org/api/documentation.html#documentation_stability_index)
+[![unstable](http://hughsk.github.io/stability-badges/dist/unstable.svg)](
+
+
 Fun break project. It's a new version of the classic song: [Animaniacs - Nations of the World](http://www.youtube.com/watch?v=IDtdQ8bTvRc).
+
+**[CURRENT VERSION IS AVAILABLE HERE](2013.txt)**
 
 The [original song](ORIGINAL.txt) missed around 50 states, included various padded sentences that now are unnecessary/silly, and states that no longer exist. See [inconsistencies](INCONSISTENCIES.md) for the full breakdown on these.
 
 Thus I thought I'd have some fun forking the original song and adding the new states / deleting the old. It's cool how much sense it makes to fork a song. It's a very good project for memorizing geography, and also very fun. Impress your friends with your encyplopedic knowledge of this perhaps useless song!
-
-**[CURRENT VERSION IS AVAILABLE HERE](2013.txt)**
 
 It needed an extra verse and a slightly elongated fast end list, and some multi island names have been shortened slightly to get a nicer flow (documented in `test.js`).
 

@@ -5,9 +5,9 @@
   "version": "0.2.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/clux/statesoftheworld.git"
+    "url": "clux/statesoftheworld"
   },
-  "keywords": [],
+  "keywords": ["animaniacs"],
   "main": "index.js",
   "scripts": {
     "test": "tap test.js"
