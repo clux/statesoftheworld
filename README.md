@@ -1,11 +1,8 @@
-# States of the World
-[![Build Status](https://secure.travis-ci.org/clux/statesoftheworld.png)](http://travis-ci.org/clux/statesoftheworld)
-[![unstable](http://hughsk.github.io/stability-badges/dist/unstable.svg)](http://nodejs.org/api/documentation.html#documentation_stability_index)
-
+# United Nations of the World
 
 Fun break project. It's a new version of the classic song: [Animaniacs - Nations of the World](http://www.youtube.com/watch?v=IDtdQ8bTvRc).
 
-**[CURRENT VERSION IS AVAILABLE HERE](2013.txt)**
+**[CURRENT VERSION IS AVAILABLE HERE](2013-current.txt)**
 
 The [original song](ORIGINAL.txt) missed around 50 states, included various padded sentences that now are unnecessary/silly, and states that no longer exist. See [inconsistencies](INCONSISTENCIES.md) for the full breakdown on these.
 
