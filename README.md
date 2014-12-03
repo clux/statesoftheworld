@@ -27,4 +27,4 @@ This song is obviously never going to be correct for long with how the world is 
 I also tried my best to keep the flow nice and smooth, but it's clear that other solutions exist. If you find cleaner variations, feel free to pull-req sensible changes!
 
 ## As a node module
-You can install and require this as a module, but it just returns the latest version of the song as a string. But hey, convenience of npm.
+When installed, you can require this as a module, but it just returns the latest version of the song as a string. It is debatable whether this is allowed to have on npm so it has been removed. You can depend on it by referencing this git repo in "dependencies" if you really want.
