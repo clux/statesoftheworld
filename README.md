@@ -1,4 +1,6 @@
 # United Nations of the World
+[![build status](https://secure.travis-ci.org/clux/unitednationsoftheworld.svg)](http://travis-ci.org/clux/unitednationsoftheworld)
+[![dependency status](https://david-dm.org/clux/unitednationsoftheworld.svg)](https://david-dm.org/clux/unitednationsoftheworld)
 
 Fun break project. It's a new version of the classic song: [Animaniacs - Nations of the World](http://www.youtube.com/watch?v=IDtdQ8bTvRc).
 
